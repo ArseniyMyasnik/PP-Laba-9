@@ -213,3 +213,101 @@ Sat Nov 19 21:15:16 2022
  Zagadannoe chislo bylo - 
 
 2
+Sat Nov 19 21:24:30 2022
+Do kakogo chisla budet zagadano chislo?(1-n): 
+
+Sat Nov 19 21:24:31 2022
+Pol'zovatel' vvel: 5
+
+2
+Sat Nov 19 21:24:31 2022
+Vvedite kolichestvo popytok: 
+
+Sat Nov 19 21:24:32 2022
+Pol'zovatel' vvel: 2
+
+Sat Nov 19 21:24:32 2022
+Vvedite vashe chislo: 
+
+Sat Nov 19 21:24:33 2022
+Pol'zovatel' vvel: 1
+
+Sat Nov 19 21:24:33 2022
+Vashe chislo men'she chem zagadannoe
+
+Sat Nov 19 21:24:33 2022
+Ostalos' popytok - 
+
+1
+Sat Nov 19 21:24:33 2022
+Vvedite vashe chislo: 
+
+Sat Nov 19 21:24:35 2022
+Pol'zovatel' vvel: 3
+
+Sat Nov 19 21:24:35 2022
+Vashe chislo bol'she chem zagadannoe
+
+Sat Nov 19 21:24:35 2022
+Ostalos' popytok - 
+
+0
+Sat Nov 19 21:24:35 2022
+K sozhaleniyu, vy ne otgadali chislo(
+
+Sat Nov 19 21:24:35 2022
+ Zagadannoe chislo bylo - 
+
+2
+Sat Nov 19 21:25:31 2022
+Do kakogo chisla budet zagadano chislo?(1-n): 
+
+Sat Nov 19 21:25:32 2022
+Pol'zovatel' vvel: 5
+
+2
+Sat Nov 19 21:25:32 2022
+Vvedite kolichestvo popytok: 
+
+Sat Nov 19 21:25:32 2022
+Pol'zovatel' vvel: 3
+
+Sat Nov 19 21:25:32 2022
+Vvedite vashe chislo: 
+
+Sat Nov 19 21:25:33 2022
+Pol'zovatel' vvel: 5
+
+Sat Nov 19 21:25:33 2022
+Vashe chislo bol'she chem zagadannoe
+
+Sat Nov 19 21:25:33 2022
+Ostalos' popytok - 
+
+2
+Sat Nov 19 21:25:33 2022
+Vvedite vashe chislo: 
+
+Sat Nov 19 21:25:35 2022
+Pol'zovatel' vvel: 1
+
+Sat Nov 19 21:25:35 2022
+Vashe chislo men'she chem zagadannoe
+
+Sat Nov 19 21:25:35 2022
+Ostalos' popytok - 
+
+1
+Sat Nov 19 21:25:35 2022
+Vvedite vashe chislo: 
+
+Sat Nov 19 21:25:36 2022
+Pol'zovatel' vvel: 2
+
+Sat Nov 19 21:25:36 2022
+Pozdravlyaem! Vy otgadali chislo
+
+Sat Nov 19 21:25:36 2022
+ Zagadannoe chislo bylo - 
+
+2
